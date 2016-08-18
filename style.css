@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(245, 255, 255);
+    background-color: rgb(255, 255, 255);
     color: maroon;
     font-size: 150%;
     line-height: 1.4;
@@ -13,7 +13,7 @@ h1{
 
 h3{
     margin:0px;
-    color: rgb(206, 216, 167);
+    color: dark brown;
 }
 
 h2{
@@ -25,12 +25,12 @@ h2{
 }
 
 a {
-    color: rgb(50, 118, 63);
+    color: red;
     text-decoration: none;
 }
 
 a:visited {
-    color: rgb(159, 192, 128);
+    color: cornflower;
     text-decoration: none;
 }
 
