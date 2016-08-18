@@ -34,8 +34,11 @@ var rules = {
   "~*x sunrise ~*y:" [
     "It can be quite fufilling to watch the sun rise."
     ],
-  "~*x mist ~*y": [
+  "~*x fog ~*y": [
     "The place I grew up, the ground was covered in fog every morning."
+  ],
+    "~*x birds ~*y": [
+    "We used to wake to the sound of their song."
   ],
   "~*x hello ~*y": [
     "How do you do. Please state your problem."
