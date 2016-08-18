@@ -28,6 +28,15 @@
  */
 
 var rules = {
+ "~*x morning ~*y": [
+    "What do you like about mornings?"
+  ],
+  "~*x sunrise ~*y:" [
+    "It can be quite fufilling to watch the sun rise."
+    ],
+  "~*x mist ~*y": [
+    "The place I grew up, the ground was covered in fog every morning."
+  ],
   "~*x hello ~*y": [
     "How do you do. Please state your problem."
   ],
